@@ -9,6 +9,7 @@
 	for ($i=0; $i < 10; $i++) { 
 		# code...
 		echo "HNG Internship";
+		echo "<br>";
 	}
 ?>
 </body>
